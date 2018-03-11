@@ -1,0 +1,2 @@
+base_controller:beginner_tutorials:catkin_rplidar/src/rplidar_ros:serial:teleop_twist_keyboard
+-DCATKIN_DEVEL_PREFIX=/home/zhai/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/zhai/catkin_ws/install -G Unix Makefiles
