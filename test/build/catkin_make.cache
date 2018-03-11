@@ -1,0 +1,2 @@
+btn
+-G CodeBlocks - Unix Makefiles -DCMAKE_BUILD_TYPE=Debug -DCATKIN_DEVEL_PREFIX=/home/zhai/test/devel -DCMAKE_INSTALL_PREFIX=/home/zhai/test/install
